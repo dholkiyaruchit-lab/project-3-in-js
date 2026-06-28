@@ -1,6 +1,6 @@
 # 📊 JavaScript Array Operations
 
-**codepen link** = https://codepen.io/Ruchit-Dholakiya/pen/ZYLJxxY
+**Codepen link** = https://codepen.io/Ruchit-Dholakiya/pen/ZYLJxxY
 
 **Video link** = https://drive.google.com/file/d/1KB4kwqlB06yUdNJVF-N3NEmFBg5Jf7WC/view?usp=drive_link
 
